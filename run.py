@@ -1,6 +1,6 @@
 from app.app import create_app
 from app.common import settings
-ssss
+sssss
 app = create_app()
 
 if __name__ == "__main__":
