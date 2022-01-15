@@ -1,5 +1,5 @@
 # Python+Flask RESTful template using MongoDB
-ss
+
 ![python 3.9](https://img.shields.io/badge/python-3.9-blue)
 [![build](https://img.shields.io/github/workflow/status/fsjunior/python-flask-restful-mongodb-template/build)](https://github.com/fsjunior/python-flask-restful-mongodb-template/actions?query=workflow%3Abuild)
 [![Codecov](https://img.shields.io/codecov/c/gh/fsjunior/python-flask-restful-mongodb-template)](https://codecov.io/gh/fsjunior/python-flask-restful-mongodb-template)
